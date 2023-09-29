@@ -1,0 +1,37 @@
+R_DEF: Internal format may change without notice
+local
+color black
+color white
+drawable ic_launcher_background
+drawable ic_launcher_foreground
+id btn00
+id btn01
+id btn02
+id btn03
+id btn04
+id btn05
+id btn06
+id btn07
+id btn08
+id btn09
+id btnAdd
+id btnClear
+id btnDivide
+id btnDot
+id btnMinus
+id btnMultiply
+id btnResult
+id buttonRow01
+id buttonRow02
+id buttonRow03
+id buttonRow04
+id mainLayout
+id resultEdit
+layout activity_main
+mipmap ic_launcher
+mipmap ic_launcher_round
+string app_name
+style Base.Theme.SimpleCalculator
+style Theme.SimpleCalculator
+xml backup_rules
+xml data_extraction_rules
